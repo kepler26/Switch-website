@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+db.sqlite3
+website/staticfiles/
+
+switch-tool/data.csv
+switch-tool/.env
+
+.DS_Store
